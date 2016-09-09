@@ -3941,6 +3941,14 @@
     "category": "alert",
     "description": "A very flexible message bar for iOS written in Swift.",
     "homepage": "https://github.com/SwiftKickMobile/SwiftMessages"
+  },
+  {
+        "title": "WarpCore",
+        "category": "data-management",
+        "description": "Framework to convert and analyze large data sets at light speed.",
+        "homepage": "https://github.com/pixelspark/warp",
+        "tags": []
+  }
   }
 ]
 }
